@@ -1,4 +1,4 @@
-# A-search
+# A*-search
 
 "I have tried to implement this algorithm in the most simple way which anyone can understand."
 "I have attached the article related to this you can go through it before proceeding. "
